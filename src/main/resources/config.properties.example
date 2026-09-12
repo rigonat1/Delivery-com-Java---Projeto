@@ -1,0 +1,6 @@
+# Copie este arquivo para "config.properties" e ajuste com os dados do SEU banco.
+# O config.properties real NÃO deve ser commitado no Git (veja o .gitignore) --
+# assim sua senha de banco nunca vai parar no GitHub.
+db.url=jdbc:postgresql://localhost:5432/delivery_db
+db.user=postgres
+db.password=coloque_sua_senha_aqui
