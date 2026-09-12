@@ -208,4 +208,4 @@ delivery-system/
 
 ---
 
-Projeto acadêmico desenvolvido para as disciplinas de Programação Orientada a Objetos (Java) e Banco de Dados (PostgreSQL).
+Projeto acadêmico desenvolvido para a matéria de modelagem de Banco de Dados.
